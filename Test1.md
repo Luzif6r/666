@@ -6,6 +6,8 @@ GitHub public
 while ($me.isBored())
 {
     $me.code();
-    $me.moreCarpeDiem();
     $me.educate();   
+    $me.read();
+    $me.moreCarpeDiem();
+    
 }
